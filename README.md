@@ -1,5 +1,12 @@
-# Mantine Vite template
+# Instructions
 
-Get started with the template by clicking `Use this template` button on the top of the page.
+## Clone Repo
+git clone https://github.com/your-username/indian-agriculture-data-analysis.git
+cd indian-agriculture-data-analysis
 
-[Documentation](https://mantine.dev/guides/vite/)
+## Package Install
+> yarn install or npm install
+
+## Run
+> yarn build or npm run dev
+
