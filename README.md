@@ -10,7 +10,6 @@ cd indian-agriculture-data-analysis
 ## Package Install
 Use either yarn or npm to install the dependencies:
 ```bash
-Copy code
 yarn install
 # or
 npm install
@@ -20,7 +19,6 @@ npm install
 To start the development server:
 
 ```bash
-Copy code
 yarn dev
 # or
 npm run dev
